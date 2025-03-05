@@ -1,5 +1,7 @@
-const { add } = require("./calculate/add.js");
-const { multiply } = require("./calculate/multiply.js");
+// const { add } = require("./calculate/add.js");
+// const { multiply } = require("./calculate/multiply.js");
+
+const { add, multiply } = require("./calculate");
 
 x = 10;
 y = 20;
